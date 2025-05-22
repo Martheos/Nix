@@ -24,6 +24,9 @@
     pkgs.exercism
     pkgs.asdf
     pkgs.erlang
+    pkgs.git
+    pkgs.ghostty
+    pkgs.gh
     # # Adds the 'hello' command to your environment. It prints a friendly
     # # "Hello, world!" when run.
     # pkgs.hello
